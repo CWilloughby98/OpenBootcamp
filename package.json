@@ -1,0 +1,18 @@
+{
+  "name": "primer_ejercicio_node",
+  "version": "1.0.0",
+  "description": "Este es mi primer ejercicio en Node",
+  "main": "index.js",
+  "scripts": {
+    "ejecuta": "node index.js",
+    "saludar": "node hello_world.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FirstTime",
+    "BootCamp",
+    "HelloWorld"
+  ],
+  "author": "Charlie Willoughby",
+  "license": "ISC"
+}
