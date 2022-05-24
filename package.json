@@ -6,6 +6,7 @@
   "scripts": {
     "ejecuta": "node index.js",
     "saludar": "node hello_world.js",
+    "ejercicio1": "node Ejercicio1JS.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
