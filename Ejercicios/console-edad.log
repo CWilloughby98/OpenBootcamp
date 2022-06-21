@@ -1,0 +1,6 @@
+prompt("Cuál es tu edad?")
+'33'
+const edad = prompt("Cuál es tu edad?")
+undefined
+const edad = prompt("Cuál es tu edad?")
+undefined
