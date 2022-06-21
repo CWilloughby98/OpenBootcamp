@@ -3,4 +3,4 @@ prompt("Cuál es tu edad?")
 const edad = prompt("Cuál es tu edad?")
 undefined
 const edad = prompt("Cuál es tu edad?")
-undefined
+'24'
