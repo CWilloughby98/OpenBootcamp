@@ -1,0 +1,15 @@
+{
+  "name": "8.errores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ErroresTryCatch.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.7.2"
+  }
+}
