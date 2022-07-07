@@ -1,0 +1,10 @@
+.button::before{
+    content: "Pasa Por Encima";
+}
+.button:hover{
+    background-color: darkgreen;
+    color: white;
+}
+.button:active::before{
+    content: "Hecho!";
+}
